@@ -5,11 +5,15 @@
 [![License](https://img.shields.io/cocoapods/l/SSSwiftUIVideoLayerView.svg?style=flat)](https://cocoapods.org/pods/SSSwiftUIVideoLayerView)
 [![Platform](https://img.shields.io/cocoapods/p/SSSwiftUIVideoLayerView.svg?style=flat)](https://cocoapods.org/pods/SSSwiftUIVideoLayerView)
 
+![Alt text](https://github.com/simformsolutions/SSSwiftUIVideoLayerView/blob/master/SSSwiftUIVideoLayerExample.gif?raw=true)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+- iOS 13.0+
+- Xcode 11+
 
 ## Installation
 
@@ -20,9 +24,16 @@ it, simply add the following line to your Podfile:
 pod 'SSSwiftUIVideoLayerView'
 ```
 
-## Author
+# Usage example
+-
+    **Import framework**
 
-Vatsal Tanna, vatsal.t@simformsolutions.com
+        import SSSwiftUIVideoLayerView
+   
+-
+    **Load Video with SwiftUIVideoLayerView function**
+      
+        SwiftUIVideoLayerView(videoName: "VideoName", videoType: "mp4")
 
 ## License
 
