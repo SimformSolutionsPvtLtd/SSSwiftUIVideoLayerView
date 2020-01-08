@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSSwiftUIVideoLayerView_Example' do
+  pod 'SSSwiftUIVideoLayerView', :path => '../'
+
+  target 'SSSwiftUIVideoLayerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
