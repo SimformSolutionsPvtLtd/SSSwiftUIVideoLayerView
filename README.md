@@ -1,4 +1,5 @@
 # SSSwiftUIVideoLayerView
+SSSwiftUIVideoPlayerLayer is a custom controller which helps to load video in SwiftUI.
 
 [![Version](https://img.shields.io/cocoapods/v/SSSwiftUIVideoLayerView.svg?style=flat)](https://cocoapods.org/pods/SSSwiftUIVideoLayerView)
 [![License](https://img.shields.io/cocoapods/l/SSSwiftUIVideoLayerView.svg?style=flat)](https://cocoapods.org/pods/SSSwiftUIVideoLayerView)
